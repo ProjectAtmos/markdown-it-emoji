@@ -11,7 +11,7 @@
     "emoticon",
     "emoticons"
   ],
-  "repository": "markdown-it/markdown-it-emoji.git",
+  "repository": "ProjectAtmos/markdown-it-emoji.git",
   "license": "MIT",
   "scripts": {
     "test": "make test"
